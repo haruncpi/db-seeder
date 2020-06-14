@@ -37,3 +37,9 @@ Windows, Linux (Comming)
 - date_range
 - datetime
 - timestamp
+
+## Download
+[DB Seeder](https://github.com/haruncpi/db-seeder/releases)
+
+## Documentation
+[DB Seeder](https://laravelarticle.com/db-seeder)
