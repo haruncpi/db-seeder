@@ -1,6 +1,8 @@
 # DB Seeder
+<a href="https://laravelarticle.com/db-seeder"><img src="https://badgen.net/badge/icon/website?icon=chrome&label&color=green"/></a>
 <a href="https://twitter.com/laravelarticle"><img src="https://badgen.net/badge/twitter/@laravelarticle/1DA1F2?icon&label" /></a>
 <a href="https://facebook.com/laravelarticle"><img src="https://badgen.net/badge/facebook/laravelarticle/3b5998"/></a>
+![Preview](preview-light.png)
 
 ##  Operating System
 Windows, Linux (Comming)
@@ -35,4 +37,3 @@ Windows, Linux (Comming)
 - date_range
 - datetime
 - timestamp
--timestamp
