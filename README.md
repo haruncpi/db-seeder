@@ -5,10 +5,10 @@
 
 A free dummy data generation tool for MySQL
 
-![Preview](preview-light.png)
+![Preview](light-preview.png)
 
 ##  Operating System
-Windows, Linux (Comming)
+Windows, Linux
 
 ## Support Us
 - By giving star on GitHub project.
