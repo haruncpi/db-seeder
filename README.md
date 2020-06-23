@@ -1,14 +1,21 @@
-# DB Seeder
-<a href="https://laravelarticle.com/db-seeder"><img src="https://badgen.net/badge/icon/website?icon=chrome&label&color=green"/></a>
+<h1 align="center">DB Seeder</h1>
+
+<p align="center"><a href="https://laravelarticle.com/db-seeder"><img src="https://badgen.net/badge/icon/website?icon=chrome&label&color=green"/></a>
 <a href="https://twitter.com/laravelarticle"><img src="https://badgen.net/badge/twitter/@laravelarticle/1DA1F2?icon&label" /></a>
-<a href="https://facebook.com/laravelarticle"><img src="https://badgen.net/badge/facebook/laravelarticle/3b5998"/></a>
+<a href="https://facebook.com/laravelarticle"><img src="https://badgen.net/badge/facebook/laravelarticle/3b5998"/></a></p>
 
-A free dummy data generation tool for MySQL
+<p align="center">
+A free dummy data generation tool for MySQL. You can generate data for Laravel, WordPress, Drupal, Joomla or any framework or raw PHP project without writing any code or using any third-party package.
+</p>
 
-![Preview](light-preview.png)
+<p align="center">
+  
+![Preview](new-preview.png)
+  
+</p>
 
 ##  Operating System
-Windows, Linux
+<table><tr><td>Windows</td><td>Linux</td><td>macOS</td></tr></table>
 
 ## Support Us
 - By giving star on GitHub project.
