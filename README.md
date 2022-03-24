@@ -15,7 +15,24 @@ A free dummy data generation tool for MySQL. You can generate data for Laravel, 
 </p>
 
 ##  Operating System
-<table><tr><td>Windows</td><td>Linux</td><td>macOS</td></tr></table>
+<table><tr><td>Windows</td><td>Linux</td><td>macOS (Intel)</td><td>M1 Mac 2020</td></tr></table>
+
+### Important for Mac OS
+Run these command after install the app into `Applications` folder.
+
+```
+sudo xattr -rd com.apple.quarantine ~/Applications/dbseeder
+```
+
+```
+sudo codesign --force --deep --sign - ~/Applications/dbseeder
+```
+
+## Download
+[DB Seeder](https://github.com/haruncpi/db-seeder/releases)
+
+## Documentation
+[DB Seeder](https://laravelarticle.com/db-seeder)
 
 ## Support Us
 - By giving star on GitHub project.
@@ -47,9 +64,3 @@ A free dummy data generation tool for MySQL. You can generate data for Laravel, 
 - date_range
 - datetime
 - timestamp
-
-## Download
-[DB Seeder](https://github.com/haruncpi/db-seeder/releases)
-
-## Documentation
-[DB Seeder](https://laravelarticle.com/db-seeder)
