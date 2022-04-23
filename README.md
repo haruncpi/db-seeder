@@ -21,11 +21,11 @@ A free dummy data generation tool for MySQL. You can generate data for Laravel, 
 Run these command after install the app into `Applications` folder.
 
 ```
-sudo xattr -rd com.apple.quarantine ~/Applications/dbseeder
+sudo xattr -rd com.apple.quarantine Applications/dbseeder
 ```
 
 ```
-sudo codesign --force --deep --sign - ~/Applications/dbseeder
+sudo codesign --force --deep --sign - Applications/dbseeder
 ```
 
 ## Download
